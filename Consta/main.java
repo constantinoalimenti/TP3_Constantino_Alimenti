@@ -6,6 +6,6 @@ public class Main {
         miPersonaje.puedeLuchar();
         miPersonaje.entrenar();
         miPersonaje.subirNivel();
-        miPersonaje.recibirDanio();
+        miPersonaje.recibirDaño();
     }
 }
