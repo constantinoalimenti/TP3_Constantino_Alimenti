@@ -39,7 +39,7 @@ public class Personaje {
         System.out.println("-------------------------");
     }
 
-    public void recibirDanio() {
+    public void recibirDaño() {
         while (vida > 0) {
             this.vida -= 10;
             if (vida < 0) vida = 0;
